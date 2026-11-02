@@ -1,0 +1,75 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Ejercicio 1 - Hola Mundo",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 1 - Hola Mundo/lib/main.dart",
+      "cwd": "Ejercicio 1 - Hola Mundo"
+    },
+    {
+      "name": "Ejercicio 2 - Boton cambia texto",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 2 - Boton cambia texto/lib/main.dart",
+      "cwd": "Ejercicio 2 - Boton cambia texto"
+    },
+    {
+      "name": "Ejercicio 3 - Contador",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 3 - Contador/lib/main.dart",
+      "cwd": "Ejercicio 3 - Contador"
+    },
+    {
+      "name": "Ejercicio 4 - Lista de elementos",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 4 - Lista de elementos/lib/main.dart",
+      "cwd": "Ejercicio 4 - Lista de elementos"
+    },
+    {
+      "name": "Ejercicio 5 - Navegacion",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 5 - Navegacion/lib/main.dart",
+      "cwd": "Ejercicio 5 - Navegacion"
+    },
+    {
+      "name": "Ejercicio 6 - Formulario",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 6 - Formulario/lib/main.dart",
+      "cwd": "Ejercicio 6 - Formulario"
+    },
+    {
+      "name": "Ejercicio 7 - Provider",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 7 - Provider/lib/main.dart",
+      "cwd": "Ejercicio 7 - Provider"
+    },
+    {
+      "name": "Ejercicio 8 - API REST",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 8 - API REST/lib/main.dart",
+      "cwd": "Ejercicio 8 - API REST"
+    },
+    {
+      "name": "Ejercicio 9 - SharedPreferences",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 9 - SharedPreferences/lib/main.dart",
+      "cwd": "Ejercicio 9 - SharedPreferences"
+    },
+    {
+      "name": "Ejercicio 10 - Prueba de Widget",
+      "request": "launch",
+      "type": "dart",
+      "program": "Ejercicio 10 - Prueba de Widget/lib/main.dart",
+      "cwd": "Ejercicio 10 - Prueba de Widget"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+# --- Guiones de sustentación (no forman parte de la entrega de código) ---
+Guion codigo comentado PRAI 2.md
+Guion sustentacion PRAI 2.txt
+
+# --- Sistema / editor ---
+.DS_Store
+**/.DS_Store
+*.iml
+.idea/
+**/.idea/
+
+# --- Flutter / Dart (todos los ejercicios) ---
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/ios/.symlinks/
+**/android/.gradle/
+**/android/local.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/**/GeneratedPluginRegistrant.java
+**/android/**/GeneratedPluginRegistrant.kt
+app.*.symbols
+app.*.map.json
+
+# --- Capturas locales de prueba ---
+**/resultado_emulador.png
+
+# --- Logs ---
+*.log
+*.class
+*.pyc
+*.swp
+
+# Helper local de este equipo
+iniciar_emulador.sh
+
+# Artefactos locales del editor
+.github/
